@@ -8,4 +8,4 @@ spring:
 
 app:
   loyalty:
-    points-conversion-rate: 1000
+    points-conversion-rate: 500
