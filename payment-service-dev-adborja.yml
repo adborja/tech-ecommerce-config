@@ -1,0 +1,11 @@
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      database: tech-ecommerce
+      port: 27017
+      host: mongodb.cedesistemas.local
+
+app:
+  payment-gateway:
+    api-base-uri: http://fastpay-dev.cedesistemas.local:9800/api/v1
