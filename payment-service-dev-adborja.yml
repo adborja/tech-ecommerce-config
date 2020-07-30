@@ -8,4 +8,4 @@ spring:
 
 app:
   payment-gateway:
-    api-base-uri: http://fastpay-prod.cedesistemas.local:8800/api/v1
+    api-base-uri: http://fastpay-dev.cedesistemas.local:9800/api/v1
