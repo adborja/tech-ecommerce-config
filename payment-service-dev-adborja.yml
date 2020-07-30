@@ -9,7 +9,3 @@ spring:
 payment-gateway:
   ribbon:
     listOfServers: fastpay.cedesistemas.local:9800
-
-#app:
-#  payment-gateway:
-#    api-base-uri: http://fastpay.cedesistemas.local:9800/api/v1
