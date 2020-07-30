@@ -8,8 +8,6 @@ spring:
 
 payment-gateway:
   ribbon:
-    eureka:
-      enabled: false
     listOfServers: fastpay.cedesistemas.local:9800,fastpay.cedesistemas.local:8800
 
 #app:
