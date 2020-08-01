@@ -1,0 +1,4 @@
+#
+app:
+  loyalty:
+    points-conversion-rate: 100
