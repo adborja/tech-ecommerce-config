@@ -1,2 +1,3 @@
-loyalty:
-    points-conversion-rate: 5000
+app:
+  loyalty:
+    points-conversion-rate: 200
