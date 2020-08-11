@@ -1,11 +1,3 @@
-spring:
-  data:
-    mongodb:
-      authentication-database: admin
-      database: tech-ecommerce
-      port: 27017
-      host: mongodb.cedesistemas.local
-
 payment-gateway:
   ribbon:
     listOfServers: fastpay.cedesistemas.local:9800
