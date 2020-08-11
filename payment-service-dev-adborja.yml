@@ -8,4 +8,4 @@ spring:
 
 payment-gateway:
   ribbon:
-    listOfServers: fastpay.cedesistemas.local:8800
+    listOfServers: fastpay.cedesistemas.local:9800
